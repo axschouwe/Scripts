@@ -1,3 +1,8 @@
+################################################################################
+### Script will convert 24-four hour to 12-hour time
+### Scripts reads from command line as arg1 ex: 13:45
+################################################################################
+
 import sys
 
 def twentyfour_twelve(time):
