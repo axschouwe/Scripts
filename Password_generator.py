@@ -1,3 +1,8 @@
+#######################################################################################################################
+###Create a text file with a password phrase ex: "Hellow world and coders" 
+###The script will read the .txt file as arg1 in the command line and convert the phrase into a secure password string!
+#######################################################################################################################
+
 import sys
 
 def passwrd(file):
