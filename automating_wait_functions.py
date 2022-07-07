@@ -1,8 +1,5 @@
 #wait functions add crucial time intervals in between actions performed (selenium trying to click, before a link is loaded)
 #explicit and implicit waits in selenium
-
-from telnetlib import EC
-from xml.dom.minidom import Element
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
